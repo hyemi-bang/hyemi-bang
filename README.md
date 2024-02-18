@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 
 -->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-<h2>🚀 About Me</h2>
+<h2>✨ About Me ✨ </h2>
 
-### 백엔드 개발자가 되고싶은 방혜미 입니다.
+<b>백엔드 개발자가 되고싶은 방혜미 입니다.</b>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-### 🛠 Tools
+### 🔨 Tools
 <div display="flex">
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
  	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
