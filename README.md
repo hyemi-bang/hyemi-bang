@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
 <h2>✨ About Me ✨ </h2>
 
 <b></b>
