@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+    
 -->
 <h2>✨ About Me ✨ </h2>
-
+ <div style="font-weight: 700; font-size: 15px; text-align: left;"> 백앤드 개발자를 목표로 하고 있습니다. 🌱</div> 
 <b></b>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
@@ -45,3 +45,14 @@ Here are some ideas to get you started:
  	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
  	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white">
  	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+</div>
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
+
+###  🧑‍💻 Contact me	
+<div display="flex">
+	<a href=https://h-saeneul.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://h-saeneul.tistory.com/"> </a>
+         <a href=https://likeable-papyrus-818.notion.site/e5901f327cfb4c188d79024221e3b838?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://likeable-papyrus-818.notion.site/e5901f327cfb4c188d79024221e3b838?pvs=4"> </a>
+         <a href=mailto:pbhm1124@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pbhm1124@gmail.com"> </a>
+</div>
+
