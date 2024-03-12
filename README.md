@@ -14,10 +14,6 @@ Here are some ideas to get you started:
     
 -->
 <h2>✨ About Me ✨ </h2>
- <div style="font-weight: 700; font-size: 15px; text-align: left;"> 백앤드 개발자를 목표로 하고 있습니다. 🌱</div> 
-<b></b>
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
 
 ### 📚 Main Skills
 <div display="flex">
